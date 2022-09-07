@@ -8,6 +8,9 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/iohookjs/Lobby)
 [![Issues](https://img.shields.io/github/issues-raw/wilix-team/iohook)](https://github.com/wilix-team/iohook/issues)
 
+## Building for Tellyo Controller
+`node build.js -all --runtime electron --version 19.0.9 --abi 93 --upload false`
+
 ## About
 
 Node.js global native keyboard and mouse listener.
