@@ -9,7 +9,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/wilix-team/iohook)](https://github.com/wilix-team/iohook/issues)
 
 ## Building for Tellyo Controller
-`node build.js -all --runtime electron --version 19.0.9 --abi 93 --upload false`
+`node build.js --runtime electron --version 19.0.9 --abi 93 --upload false`
 
 ## About
 
